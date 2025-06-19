@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+
+# Uv-specific
+.uv/
+
+# Installer logs
+pip-log.txt
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Unit test / Jupyter stuff
+.ipynb_checkpoints/
+
+# pyproject.toml lock files (if using poetry/pdm)
+poetry.lock
+pdm.lock
+
+# Log files
+*.log
